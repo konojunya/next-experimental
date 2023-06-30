@@ -1,0 +1,9 @@
+{
+  "name": "simple-page-router",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT"
+}

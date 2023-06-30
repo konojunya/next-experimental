@@ -1,8 +1,8 @@
 ---
 name: "next-app"
-root: "."
-output: "packages/*"
-ignore: []
+root: "packages"
+output: "*"
+ignore: ["packages/*"]
 questions:
   name: "Please enter any app name."
 ---
