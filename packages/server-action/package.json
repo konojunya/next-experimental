@@ -1,0 +1,9 @@
+{
+  "name": "server-action",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT"
+}
